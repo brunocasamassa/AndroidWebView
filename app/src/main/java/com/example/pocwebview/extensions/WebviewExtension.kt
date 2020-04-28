@@ -1,4 +1,4 @@
-package com.example.pocwebview
+package com.example.pocwebview.extensions
 
 import android.content.Context
 import android.webkit.WebView

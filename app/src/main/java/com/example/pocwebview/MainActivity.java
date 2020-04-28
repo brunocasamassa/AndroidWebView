@@ -64,6 +64,7 @@ import java.util.Map;
 
 import static android.provider.ContactsContract.CommonDataKinds.Website.URL;
 
+@Deprecated
 public class MainActivity extends AppCompatActivity implements MainViewListener {
 
     public static String dirName = "SantanderEmpresas";
@@ -115,6 +116,7 @@ public class MainActivity extends AppCompatActivity implements MainViewListener 
                         // code here
                     }
                 });*/
+
 
         String htmlCode = "https://acabreu.websiteseguro.com/alexlab/getnet/getnet_estatico.php";
 
@@ -252,6 +254,7 @@ public class MainActivity extends AppCompatActivity implements MainViewListener 
 
     }
 }
+
 
 
 class MyJavaScriptInterface {
