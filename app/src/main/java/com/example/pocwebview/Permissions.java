@@ -29,7 +29,7 @@ public class Permissions {
                 /*Solicita Permissao*/
                 ActivityCompat.requestPermissions(activity, permission, requestCode);
 
-                return validaPermissoes(requestCode,activity,permissao);
+                return false ; //validaPermissoes(requestCode,activity,permissao);
             }
 
         }

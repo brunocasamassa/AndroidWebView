@@ -3,17 +3,82 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69687f2e7fb6375ca0449e79c8de729a/design-28.0.0/jars/classes.jar!/android/support/design/widget/TextInputLayout.class">
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/build.gradle">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../ajudaqui/app/src/main/java/studio/brunocasamassa/ajudaquioficial/helper/Permissao.java">
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/src/main/AndroidManifest.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/src/main/java/br/com/santander/ui/samples/GetnetAddrsChangeActivity.kt">
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/src/main/java/br/com/santander/ui/samples/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/src/main/java/br/com/santander/ui/samples/SantanderEditTextActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/src/main/java/br/com/santander/ui/samples/Test.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/src/main/java/br/com/santander/ui/samples/TestActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/src/main/java/br/com/santander/ui/samples/TestActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/app/src/main/res/layout/activity_edittext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../and-br-snt-ui/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gapzero-android/app/sonar.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gapzero-android/app/src/main/java/com/santander/app/deeplink/DeepLinkRedirect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gapzero-android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gapzero-android/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gapzero-android/preferencescore/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gapzero-android/sdd/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
           </value>
@@ -23,7 +88,7 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/pocwebview/DownloadFile.java">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/pocwebview/CustomWebView.kt">
           <value>
             <set />
           </value>
@@ -33,12 +98,7 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/pocwebview/MainViewListener.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/pocwebview/Permissions.java">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/pocwebview/MainPo.kt">
           <value>
             <set />
           </value>
@@ -48,17 +108,17 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+        <entry key="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/build.gradle">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/app/build.gradle">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/app/src/main/java/com/santandermovelempresarial/app/features/general/BaseActivity.java">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/app/build/outputs/apk/debug/output.json">
           <value>
             <set />
           </value>
@@ -68,12 +128,22 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/app/src/main/java/com/santandermovelempresarial/app/features/login/model/LoginProvider.java">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/build.gradle">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/app/src/test/java/com/santandermovelempresarial/app/features/getnet/data/GetnetHubRepositoryImplTest.kt">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/emprestimos/src/main/java/com/santandermovelempresarial/emprestimos/commons/AbstractFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/AndroidManifest.xml">
           <value>
             <set />
           </value>
@@ -83,12 +153,112 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/constants/BaseConstants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/constants/analytics/GetnetFirebaseTags.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/customviews/CustomErrorView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/extensions/CustomViewsExtensions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/extensions/PermissionExtension.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/extensions/StringExtension.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/extensions/WebViewExtension.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/repository/GetnetSalesRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/repository/GetnetSalesRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/session/FlowDataStorage.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/base/utils/BaseUtils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/di/GetNetSalesModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/address/secondaryaddress/ResponseAddress.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/addresschange/SendErrorFields.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/checkout/CheckoutParams.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/showcase/card/GetnetCardItem.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/voucher/ReceiptOrder.kt">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/showcase/card/GetnetCardList.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/tax/ProductIdentification.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/tax/ProductIdentificationTax.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/tax/TaxItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/tax/Taxes.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/domain/response/tax/personas/Endereco.kt">
           <value>
             <set />
           </value>
@@ -103,7 +273,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/addresschange/GetnetAddrsChangeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/addresschange/customviews/SantanderEditableField.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/cancellation/contact/GetnetCancellationContactActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/cancellation/reasons/GetnetReasonCancellationActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/cancellation/reasons/adapter/CancelationMotivesAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/checkout/GetnetCheckoutActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/checkout/GetnetWebChromeClientImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/checkout/GetnetWebViewClientImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/checkout/JavascriptInterfaceImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/checkout/WebViewClientImpl.kt">
           <value>
             <set />
           </value>
@@ -118,6 +333,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/showcase/GetnetSalesRoundedCardShowcase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/showcase/GetnetSalesUnfit.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/showcase/ViewExtension.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/showcase/customview/GetnetSalesCardView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/tax/GetnetTaxActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/tax/customviews/GetnetCardTaxView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/tax/customviews/GetnetTaxSummaryView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/presentation/voucher/GetnetSimpleVoucherActivity.kt">
           <value>
             <set />
@@ -128,12 +378,72 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/GetnetSalesMainViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/address/GetnetSalesAddressViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/addresschange/AddressChangeValidator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/addresschange/GetnetSalesAddrsChangeViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/cancellation/reasons/GetnetReasonCancellationViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/checkout/GetnetSalesCheckoutViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/checkout/GetnetSalesCheckoutViewState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/checkout/GetnetSalesWebViewViewState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/checkout/GetnetWebViewOrderState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/confirmation/GetnetConfirmationViewModel.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/res/layout/activity_getnetsales_cancellation_contact.xml">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/tax/GetnetTaxViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/java/com/santandermovelempresarial/getnet/viewmodel/voucher/GetnetSimpleVoucherViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/res/layout/activity_getnet_buying_confirmation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/res/layout/activity_getnetsales_address_change.xml">
           <value>
             <set />
           </value>
@@ -143,257 +453,32 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/base/BaseUtilsTest.kt">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/res/layout/item_getnet_full_voucher_modal.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/base/constants/analytics/GetnetFirebaseTagsTest.kt">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/res/layout/item_getnet_tax_summary.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/base/view/customviews/GetnetCustomLoaderTest.kt">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/main/res/layout/item_getnetsales_renting_machine_card.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/domain/adapters/address/AddressDataValidatorTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/presentation/address/textwatchers/GetnetEmailTextWatcherTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/presentation/address/utils/InputValidatorTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/presentation/cancellation/reasons/adapter/CancelationMotivesAdapterTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/viewmodel/address/GetnetSalesAddressViewModelTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/viewmodel/cancellation/contact/GetnetSalesCancellationContactViewModelTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/viewmodel/tax/GetnetTaxViewModelTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/viewmodel/voucher/GetnetSimpleVoucherViewModelTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/base/BaseConstants.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/base/BaseUtils.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/base/FlowDataStorage.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/base/repository/GetnetSalesRepositoryImpl.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/base/view/GetnetBaseActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/base/view/customviews/GetnetModalView.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/model/response/addresschange/AddressChangeVO.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/model/response/confirmation/ConfirmationInitialOSGResponse.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/model/response/proposalflow/ProposalStatus.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/model/response/voucher/ReceiptOrder.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/GetnetMainActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/address/GetnetAddressActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/addresschange/GetnetAddrsChangeActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/addresschange/customviews/AddressChangeErrorView.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/addresschange/customviews/SantanderEditableField.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/cancellation/GetnetBaseCancelationActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/cancellation/contact/GetnetCancellationContactActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/cancellation/reasons/GetnetReasonCancellationActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/cancellation/reasons/adapter/CancelationMotivesAdapter.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/confirmation/GetnetConfirmationActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/showcase/GetnetSalesUnfit.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/voucher/GetnetSimpleVoucherActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/view/voucher/customviews/GetnetFullVoucherModalView.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/address/GetnetSalesAddressViewModel.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/address/textwatchers/GetnetAddressTextWatcher.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/addresschange/GetnetSalesAddrsChangeViewModel.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/cancellation/contact/GetnetContactCancellationViewState.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/cancellation/contact/GetnetSalesCancellationContactViewModel.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/cancellation/reasons/GetnetReasonCancellationViewModel.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/cancellation/reasons/GetnetReasonCancellationViewState.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/confirmation/GetnetConfirmationViewModel.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/java/com/santandermovelempresarial/getnetsales/viewmodel/confirmation/GetnetConfirmationViewState.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/res/layout/activity_getnetsales_address_change.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/res/layout/activity_getnetsales_reason_cancellation.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/res/layout/item_getnet_error_screen.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/res/layout/item_getnet_full_voucher_modal.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/res/layout/item_getnet_status.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/res/layout/item_getnetsales_address_deadline.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../santander-android-pj/getnetsales/src/main/res/values/strings.xml">
+        <entry key="$PROJECT_DIR$/../santander-android-pj/getnet/src/test/java/com/santandermovelempresarial/getnet/viewmodel/confirmation/GetnetConfirmationViewModelTest.kt">
           <value>
             <set />
           </value>
         </entry>
         <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
           <value>
             <set />
           </value>

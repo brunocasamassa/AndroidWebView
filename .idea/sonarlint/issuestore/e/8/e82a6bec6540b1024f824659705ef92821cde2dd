@@ -1,16 +1,75 @@
 
-Xsquid:S1444"5Make this "public static returnParameter" field final(¹×‘øøÿÿÿÿ8èéóõ….
-]squid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G8îî¯õ….
-esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ú±
-•"squid:ClassVariableVisibilityCheck"[Make returnParameter a static final constant or non-public and provide accessors if needed.(¹×‘øøÿÿÿÿ8èéóõ….
-nsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(ò»ğıÿÿÿÿ8¯ñõ….
-Fsquid:S1125`"(Remove the literal "true" boolean value.(„Õ–ş8Ë¿©ö….
-Vsquid:UselessImportCheck"-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹şÿÿÿÿ
-\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8îî¯õ….
-dsquid:UselessImportCheck
-"4Remove this unused import 'android.view.ActionMode'.(È›¬Şüÿÿÿÿ8í¸ô….
-ssquid:S1450"URemove the "button" field and declare it as a local variable in the relevant methods.(ÈòÉ¹8í¾Ÿö….
-Zsquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
-dsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8é¥ö….
-]squid:UselessImportCheck"2Remove this unused import 'android.view.MenuItem'.(Ğ¬Ó‘8í¸ô….
-Ysquid:UselessImportCheck".Remove this unused import 'android.view.Menu'.(£¯Ò…8í¸ô….
+csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(¢ÓĞÎ
+]squid:UselessImportCheck)"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheckE"SMake dirName a static final constant or non-public and provide accessors if needed.(Ìé¨¥
+>squid:S1075˜"&Remove this hard-coded path-delimiter.(Ä‡‹Ã
+isquid:UselessImportCheck"@Remove this unused import 'androidx.core.content.ContextCompat'.(üäÂùÿÿÿÿ
+Ssquid:UselessImportCheck?"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+Csquid:S1068I",Remove this unused "isHidden" private field.(ò–æá
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+_squid:UselessImportCheck("6Remove this unused import 'android.widget.DatePicker'.(µö—şÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'android.app.Service'.(èœ—ÿúÿÿÿÿ
+Ssquid:S1068K"<Remove this unused "stringButtonClickPerform" private field.(É¢·’
+hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(šéÛÊşÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheckJ"TMake fileName a static final constant or non-public and provide accessors if needed.(òêæûÿÿÿÿ
+]squid:S2147"ECombine this catch with the one at line 395, which has the same body.(à®¿­
+gsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(‡å±•ùÿÿÿÿ
+Xsquid:UselessImportCheck"/Remove this unused import 'android.os.IBinder'.(Ñğôˆùÿÿÿÿ
+gsquid:UselessImportCheck">Remove this unused import 'android.content.pm.PackageManager'.(€®¥õÿÿÿÿÿ
+@squid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+csquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.( ºÖÏ
+nsquid:S2095ş"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ÆÑ·óøÿÿÿÿ
+Vsquid:UselessImportCheck"2Remove this unused import 'android.view.MenuItem'.(Ğ¬Ó‘
+Gsquid:S2093Ş"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+gsquid:UselessImportCheck"">Remove this unused import 'android.webkit.WebResourceRequest'.(ƒ’¹Šüÿÿÿÿ
+]squid:S2147"ECombine this catch with the one at line 395, which has the same body.(ï­£Ä
+csquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(ˆ©Û
+@squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:UselessImportCheck"4Remove this unused import 'android.view.ActionMode'.(È›¬Şüÿÿÿÿ
+Rsquid:UselessImportCheck".Remove this unused import 'android.view.Menu'.(£¯Ò…
+Tsquid:S1854Ò"<Remove this useless assignment to local variable "htmlCode".(¿Ï­õ
+]squid:UselessImportCheck"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Wsquid:S1118ò":Add a private constructor to hide the implicit public one.(ÑÇú¿úÿÿÿÿ
+>squid:S1075˜"&Remove this hard-coded path-delimiter.(Ä‡‹Ã
+Xsquid:S1854w"<Remove this useless assignment to local variable "htmlCode".(òÜØºùÿÿÿÿ
+asquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(°²Êr
+@squid:S1148É"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Lsquid:S1444H"5Make this "public static boletoParameter" field final(ª©§º
+Zsquid:S1854}"CRemove this useless assignment to local variable "jsonInputString".(Ó‚ô‡
+Esquid:S1481Ò"-Remove this unused "htmlCode" local variable.(¿Ï­õ
+Xsquid:UselessImportCheck"/Remove this unused import 'android.os.Message'.(¤ªæéıÿÿÿÿ
+^
+squid:S899İ"BDo something with the "boolean" value returned by "createNewFile".(¶ÌšĞüÿÿÿÿ
+asquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(ËºM
+hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(šÃé ùÿÿÿÿ
+@squid:S1148ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²¤˜ÿ
+bsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(»¡¢£
+bsquid:UselessImportCheck#"?Remove this unused import 'android.webkit.WebResourceResponse'.(Ì·ñ/
+hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(«áèúÿÿÿÿ
+Dsquid:S1444E"-Make this "public static dirName" field final(Ìé¨¥
+psquid:S1450”"XRemove the "boletoUrl" field and declare it as a local variable in the relevant methods.(¸à¢Ö
+@squid:S1148ß"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckH"[Make boletoParameter a static final constant or non-public and provide accessors if needed.(ª©§º
+Msquid:S2696V"6Make the enclosing method "static" or remove this set.(ÒÚš
+bsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(Ã¬Ç¬
+Ksquid:S1481}"4Remove this unused "jsonInputString" local variable.(Ó‚ô‡
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(¹Ä²“øÿÿÿÿ
+Vsquid:UselessImportCheck,"-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹şÿÿÿÿ
+Asquid:S1068G"*Remove this unused "button" private field.(ÈòÉ¹
+\squid:UselessImportCheck"8Remove this unused import 'android.app.DownloadManager'.(åşÓÎ
+hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(¢Èûÿÿÿÿ
+esquid:MaximumInheritanceDepthC"<This class has 6 parents which is greater than 5 authorized.(¬¤á˜
+Gsquid:S1066§"/Merge this if statement with the enclosing one.(¨»é¤
+Jsquid:S1444J".Make this "public static fileName" field final(òêæûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùÂ«Ó
+csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ŠÍÛ
+fsquid:S2095€"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(«Í†—
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+Zsquid:S1854y"<Remove this useless assignment to local variable "htmlCode".(Ë «Î8µ©èÅ˜.
+[squid:S1854„"<Remove this useless assignment to local variable "postData".(¬«èÆ8µ©èÅ˜.
+Psquid:S1481w"-Remove this unused "htmlCode" local variable.(òÜØºùÿÿÿÿ8µ©èÅ˜.
+Qsquid:S1481"-Remove this unused "postData" local variable.(Ğ—İüÿÿÿÿ8µ©èÅ˜.
+jsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(—çÆ÷8µ©èÅ˜.
